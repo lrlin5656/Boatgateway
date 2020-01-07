@@ -1,16 +1,20 @@
 {
-	"file":	"firmware.hex",
-	"mark": "Base firmware V0.1",
-	"ver":	"V0.1",
-	"date":	"2019/12/31",
-	"size":	71434, 
-	"url1": "https://github.com/lrlin5656/Boatgateway/raw/master/firmware.hex"
-},
-{
-	"file":	"firmware.bin",
-	"mark": "Wireless Communication firmware V0.1",
-	"ver":	"V0.1",
-	"date":	"2019/12/31",
-	"size":	885648, 
-	"url1": "https://github.com/lrlin5656/Boatgateway/raw/master/firmware.bin"
+	"hex" : 
+	{
+		"file":	"firmware.hex",
+		"mark": "Base firmware V0.1",
+		"ver":	"V0.1",
+		"date":	"2019/12/31",
+		"size":	71434, 
+		"url1": "https://github.com/lrlin5656/Boatgateway/raw/master/firmware.hex"
+	},
+	"bin": 
+	{
+		"file":	"firmware.bin",
+		"mark": "Wireless Communication firmware V0.1",
+		"ver":	"V0.1",
+		"date":	"2019/12/31",
+		"size":	885648, 
+		"url1": "https://github.com/lrlin5656/Boatgateway/raw/master/firmware.bin"
+	}
 }
