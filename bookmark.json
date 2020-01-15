@@ -11,7 +11,7 @@
 	"bin": 
 	{
 		"file":	"firmware.bin",
-		"mark": "Communication firmware V0.1",
+		"mark": "Communication firmware V0.11",
 		"ver":	"V0.11",
 		"date":	"2020/01/15",
 		"size":	846688, 
