@@ -2,7 +2,7 @@
 	"hex" : 
 	{
 		"file":	"firmware.hex",
-		"mark": "Base Processing firmware V0.1",
+		"mark": "Base Processing firmware V0.11",
 		"ver":	"V0.11",
 		"date":	"2020/01/15",
 		"size":	71555, 
