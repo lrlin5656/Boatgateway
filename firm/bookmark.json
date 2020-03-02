@@ -5,7 +5,7 @@
 		"mark": "Base Processing firmware V0.70",
 		"ver":	"V0.70",
 		"date":	"2020/03/03",
-		"size": 172163,	
+		"size": 172466,	
 		"url1": "https://github.com/lrlin5656/Boatgateway/raw/master/firm/firmware.hex"
 	},
 	"bin": 
@@ -14,7 +14,7 @@
 		"mark": "Communication firmware V0.70",
 		"ver":	"V0.70",
 		"date":	"2020/03/03",
-		"size": 843504,	
+		"size": 843488,	
 		"url1": "https://github.com/lrlin5656/Boatgateway/raw/master/firm/firmware.bin"
 	}
 }
