@@ -6,15 +6,15 @@
 		"ver":	"V0.70",
 		"date":	"2020/03/01",
 		"size": 169696,	
-		"url1": "https://github.com/lrlin5656/Boatgateway/raw/master/firmware.hex"
+		"url1": "https://github.com/lrlin5656/Boatgateway/raw/master/firm/firmware.hex"
 	},
 	"bin": 
 	{
 		"file":	"firmware.bin",
 		"mark": "Communication firmware V0.70",
 		"ver":	"V0.70",
-		"date":	"2020/03/01",
+		"date":	"2020/03/02",
 		"size": 843504,	
-		"url1": "https://github.com/lrlin5656/Boatgateway/raw/master/firmware.bin"
+		"url1": "https://github.com/lrlin5656/Boatgateway/raw/master/firm/firmware.bin"
 	}
 }
