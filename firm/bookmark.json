@@ -2,19 +2,19 @@
 	"hex" : 
 	{
 		"file":	"firmware.hex",
-		"mark": "Base Processing firmware V0.73",
-		"ver":	"V0.73",
-		"date":	"2020/03/04",
-		"size": 170719,	
+		"mark": "Base Processing firmware V0.74",
+		"ver":	"V0.74",
+		"date":	"2020/03/05",
+		"size": 170445,	
 		"url1": "https://github.com/lrlin5656/Boatgateway/raw/master/firm/firmware.hex"
 	},
 	"bin": 
 	{
 		"file":	"firmware.bin",
-		"mark": "Communication firmware V0.73",
-		"ver":	"V0.73",
-		"date":	"2020/03/04",
-		"size": 843552,	
+		"mark": "Communication firmware V0.74",
+		"ver":	"V0.74",
+		"date":	"2020/03/05",
+		"size": 843568,	
 		"url1": "https://github.com/lrlin5656/Boatgateway/raw/master/firm/firmware.bin"
 	}
 }
