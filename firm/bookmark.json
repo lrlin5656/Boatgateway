@@ -2,10 +2,10 @@
 	"hex" : 
 	{
 		"file":	"firmware.hex",
-		"mark": "Base Processing firmware V0.80",
-		"ver":	"V0.80",
-		"date":	"2020/03/13",
-		"size": 171500,	
+		"mark": "Base Processing firmware V0.81",
+		"ver":	"V0.81",
+		"date":	"2020/03/18",
+		"size": 174675,	
 		"url1": "https://github.com/lrlin5656/Boatgateway/raw/master/firm/firmware.hex"
 	},
 	"bin": 
