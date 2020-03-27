@@ -13,8 +13,8 @@
 		"file":	"firmware.bin",
 		"mark": "Communication firmware V0.82",
 		"ver":	"V0.82",
-		"date":	"2020/03/26",
-		"size": 846064,	
+		"date":	"2020/03/27",
+		"size": 846032,	
 		"url1": "https://github.com/lrlin5656/Boatgateway/raw/master/firm/firmware.bin"
 	}
 }
