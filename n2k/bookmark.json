@@ -1,0 +1,20 @@
+{ 
+	"hex" : 
+	{
+		"file":	"firmware.hex",
+		"mark": "Base Processing firmware V1.0N",
+		"ver":	"V1.0",
+		"date":	"2020/07/23",
+		"size": 173104,	
+		"url1": "https://github.com/lrlin5656/Boatgateway/raw/master/n2k/firmware.hex"
+	},
+	"bin": 
+	{
+		"file":	"firmware.bin",
+		"mark": "Communication firmware V1.0N",
+		"ver":	"V1.0",
+		"date":	"2020/07/23",
+		"size": 848736,	
+		"url1": "https://github.com/lrlin5656/Boatgateway/raw/master/n2k/firmware.bin"
+	}
+}
