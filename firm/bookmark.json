@@ -2,7 +2,7 @@
 	"hex" : 
 	{
 		"file":	"firmware.hex",
-		"mark": "Base Processing firmware V1.0",
+		"mark": "Seatalk Base Processing firmware V1.0",
 		"ver":	"V1.0",
 		"date":	"2020/04/16",
 		"size": 173104,	
@@ -11,7 +11,7 @@
 	"bin": 
 	{
 		"file":	"firmware.bin",
-		"mark": "Communication firmware V1.0",
+		"mark": "Seatalk Communication firmware V1.0",
 		"ver":	"V1.0",
 		"date":	"2020/04/16",
 		"size": 848736,	
