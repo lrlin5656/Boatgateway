@@ -4,8 +4,8 @@
 		"file":	"firmware.hex",
 		"mark": "NMEA2000 Base Processing firmware V1.25",
 		"ver":	"V1.25",
-		"date":	"2020/01/15",
-		"size": 216419,	
+		"date":	"2020/01/24",
+		"size": 217540,	
 		"url1": "https://github.com/lrlin5656/Boatgateway/raw/master/n2k/firmware.hex"
 	},
 	"bin": 
