@@ -16,5 +16,11 @@
 		"name":	"2021-03-11-Tainan.txt",
 		"size":	770061, 
 		"url1": "https://github.com/lrlin5656/Boatgateway/raw/master/demo/2021-03-11-Tainan.txt"
+	},
+	"file 4":
+	{
+		"name":	"2021-03-11-Fangliao.txt",
+		"size":	803182, 
+		"url1": "https://github.com/lrlin5656/Boatgateway/raw/master/demo/2021-03-11-Fangliao.txt"
 	}
 }
