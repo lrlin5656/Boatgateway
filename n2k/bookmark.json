@@ -2,7 +2,7 @@
 	"hex" : 
 	{
 		"file":	"firmware.hex",
-		"mark": "NMEA2000 Base Processing firmware V1.25",
+		"mark": "NMEA2000 Base Processing firmware V1.26",
 		"ver":	"V1.26",
 		"date":	"2021/06/20",
 		"size": 214214,	
@@ -11,7 +11,7 @@
 	"bin": 
 	{
 		"file":	"firmware.bin",
-		"mark": "NMEA2000 Communication firmware V1.25",
+		"mark": "NMEA2000 Communication firmware V1.26",
 		"ver":	"V1.26",
 		"date":	"2021/06/20",
 		"size": 891232,	
