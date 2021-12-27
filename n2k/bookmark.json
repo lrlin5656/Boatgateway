@@ -5,7 +5,7 @@
 		"mark": "NMEA2000 Base Processing firmware V1.28",
 		"ver":	"V1.28",
 		"date":	"2021/12/27",
-		"size": 265056,	
+		"size": 888256,	
 		"url1": "https://github.com/lrlin5656/Boatgateway/raw/master/n2k/firmware.hex"
 	},
 	"bin": 
