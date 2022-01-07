@@ -14,7 +14,7 @@
 		"mark": "NMEA2000 Communication firmware V1.27",
 		"ver":	"V1.27",
 		"date":	"2022/01/07",
-		"size": 879568,
+		"size": 880432,
 		"url1": "https://github.com/lrlin5656/Boatgateway/raw/master/n2k/firmware.bin"
 	}
 }
